@@ -13,7 +13,7 @@ Power BI-ban analizálni egy cég lemorzsolódási adatait és egy dashboard seg
 - Túlórában és rendes munkaidőben dolgozó lemorzsolódottak összehasonlítása
 - Átlagos havi kereset életkor szerint
 
-## Fő kimutatások
+## Fő insightok
 - Túlórázó dolgozók nagyobb arányban hagyják el a céget
 - Elégedettséggel nincs jelentős összefüggésben a fluktuáltak száma
 - Nagy mértékben eltér a fluktuációk száma a cégen belüli osztályokon
